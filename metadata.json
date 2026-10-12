@@ -1,0 +1,6 @@
+{
+  "name": "W.V.A Entulho - Locação de Caçambas em Todo o Brasil",
+  "description": "Locação ágil de caçambas de entulho de 3m³ a 10m³ em todo o Brasil através de empresas parceiras cadastradas. Atendimento transparente e orçamento rápido via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
